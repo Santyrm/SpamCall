@@ -12,3 +12,4 @@ $ git clone https://github.com/Santyrm/SpamCall
 $ cd spam-call
 $ php run.php
 ```
+Hargai Yang Buat SC yah cape soalnya 😁🙏
